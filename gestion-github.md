@@ -10,6 +10,7 @@ Da una serie de pasos a seguir para administrar la presencia del CITT Antonio Va
 * Para darle una presencia al CITT en una de las más importantes redes para los desarrolladores de todo tipo y orientación
 * Para recompensar a los colaboradores del CITT dándoles crédito públicamente por su trabajo en una plataforma popularmente usada para verificar la habilidad de un profesional IT, mejorando sus prospectos laborales.
 
+
 ## Acerca de GitHub
 Es un servicio que ofrece una multitud de herramientas gratuitas para proyectos informáticos. Entre estos servicios cuenta con (pero no únicamente):
 
@@ -29,9 +30,35 @@ Los **repositorios públicos** pueden ser vistos y copiados por todo el mundo, p
 Es importante controlar el acceso de escritura de los repositorios para evitar confusiones, acciones maliciosas o malas atribuciones de crédito.
 
 ## Administrando la organización
+### Agregar un usuario a la organización
+
+1. Ingresar a [la página de miembros de la organización](https://github.com/orgs/citt-avaras/people)
+2. Click en **Invite member**
+3. Ingresar email o nombre de usuario (nombre de usuario requiere una cuenta previamente creada)
+
 
 ## Administrando usuarios y equipos
 ### Creando un equipo
-### Administrando permisos
+1. Ingresar a [la página de equipos de la organización](https://github.com/orgs/citt-avaras/teams)
+2. Click en **New Team**
+3. Ingresar un nombre, descripción y mantener visibilidad, aceptar
+
+### Crear repositorio
+1. Ingresar a [la página de la organización](https://github.com/citt-avaras)
+2. Click en **New Repository**
+3. Ingresar el nombre del repositorio, dejar todo lo demás igual
+4. Click en aceptar
+
+
 ### Acceso a repositorio
+1. Para dar acceso al repositorio, se requiere agregar a un equipo como colaborador. Para lograr esto: dirigirse a [la página de la organización](https://github.com/citt-avaras) y hacer click en el repositorio en cuestión.
+2. Hacemos click en **Settings** y luego en **Collaborators & teams**
+3. En el apartado **Teams** seleccionamos un equipo para agregar como colaborador. Si no existe, podemos crearlo con el botón **Create new team**
+4. Una vez agregado el equipo como colaborador, podemos seleccionar el nivel de permiso que tienen los miembros de este equipo para el repositorio en cuestión. Seleccionar **Write**
+
+
 ## Recomendaciones
+* No dar permisos a usuarios de forma individual. Siempre utilizar equipos.
+* No dar permisos a usuarios que no pertenezcan a la organización.
+* No integrar a equipos a usuarios que no pertenezcan a la organización.
+* No crear una "cuenta institucional", ya que compartir contraseñas es sumamente riesgoso. Se recomienda transferir la propiedad entre perfiles personales de la organización en caso de que haya un cambio de mando.
