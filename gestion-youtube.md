@@ -9,7 +9,7 @@ Da una serie de pasos para administrar y gestionar correctamente el canal de You
 * Es la herramienta de distribución de video gratuita más importante del mundo.
 * Su ubiquidad reduce los costos de integración a otras plataformas de publicación o gestión de contenido.
 
-## Requisitos de las evidencias
+## Requisitos de las evidencias en video
 ### Formato del video
 Los formatos admitidos por YouTube son:
 * .MOV
@@ -46,9 +46,13 @@ Cada video subido debe tener:
 ## Gestión del canal
 ### El dueño del canal
 
+
+
 ### Los contribuyentes del canal
 
 
 ### Organización de videos
 
 ## Recomendaciones
+
+* Considerando que YouTube es un servicio online que está siendo siempre actualizado, es posible que las acciones indicadas en este documento se vuelvan obsoletas. Se recomienda actualizar este documento cuando ocurran estos cambios.
