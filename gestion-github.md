@@ -62,3 +62,4 @@ Es importante controlar el acceso de escritura de los repositorios para evitar c
 * No dar permisos a usuarios que no pertenezcan a la organización.
 * No integrar a equipos a usuarios que no pertenezcan a la organización.
 * No crear una "cuenta institucional", ya que compartir contraseñas es sumamente riesgoso. Se recomienda transferir la propiedad entre perfiles personales de la organización en caso de que haya un cambio de mando.
+* Considerando que YouTube es un servicio online que está siendo siempre actualizado, es posible que las acciones indicadas en este documento se vuelvan obsoletas. Se recomienda actualizar este documento cuando ocurran estos cambios.
