@@ -45,13 +45,37 @@ Cada video subido debe tener:
 
 ## Gestión del canal
 ### El dueño del canal
+#### Qué es?
+El dueño del canal es el usuario con más poder. Es capaz de agregar o quitar contribuyentes, de subir, publicar, editar o borrar videos.
 
+#### Requisitos para ser dueño
+El ser dueño de un canal no requiere nada más que una cuenta Google, y el título puede ser traspasado en usuarios.
+
+**Nunca debe crearse una cuenta Google despersonalizada para administración.** Compartir passwords no solamente esun riesgo de seguridad, también aumenta el riesgo de complicar la administración o de perder el control absolutamente del recurso.
+
+
+Se recomienda que los dueños del canal utilicen su cuenta personal de Google o alguna que usen periódicamente, para disminuir las posibilidades de las credenciales de la cuenta y por ende el canal.
+
+#### Transferir el dominio del canal
+El dueño del canal debe ser uno de los principales funcionarios dentro del CITT, y al momento de dejar su puesto entregar el canal a su sucesor.
 
 
 ### Los contribuyentes del canal
+#### Qué es?
+En caso de que el dueño del canal decida delegar la publicación de material u otras funciones a un tercero, se le debe hacer administrador a esta persona.
 
+#### Cómo se hace un nuevo administrador?
+El nuevo administrador debe tener una cuenta Google.
+El dueño del canal debe darle permisos de administrador utilizando su dirección de correo asociada.
 
 ### Organización de videos
+
+El canal debe tener 3 "Listas de reproducción":
+* Workshops
+* Tutoriales
+* Evidencias de proyectos
+
+Al momento de subir cualquiera de estos videos, se deben agregar a la lista de reproducción de acuerdo a su categoría.
 
 ## Recomendaciones
 
