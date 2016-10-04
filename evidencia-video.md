@@ -10,6 +10,18 @@ Da una serie de pasos para administrar y gestionar correctamente el canal de You
 * Es la herramienta de distribución de video gratuita más importante del mundo.
 * Su ubiquidad reduce los costos de integración a otras plataformas de publicación o gestión de contenido.
 
+## Requisitos de las evidencias
+### Formato del video
+### Requisitos de contenido
 
+
+## Gestión del canal
+### Hacer a otro usuario el dueño del canal
+
+### Hacer a otro usuario contribuyente del canal
+
+### Descripción de los videos
+
+### Organización de videos
 
 ## Recomendaciones
