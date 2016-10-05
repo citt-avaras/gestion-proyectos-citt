@@ -59,14 +59,30 @@ Se recomienda que los dueños del canal utilicen su cuenta personal de Google o 
 #### Transferir el dominio del canal
 El dueño del canal debe ser uno de los principales funcionarios dentro del CITT, y al momento de dejar su puesto entregar el canal a su sucesor.
 
+1. Iniciar sesión con la cuenta Google del dueño del canal.
+2. Asegurarse que el canal del CITT está seleccionado (se puede verificar con el ícono en la esquina superior derecha)
+3. Dirigirse a [la página de administración de la cuenta](https://www.youtube.com/account)
+4. Click en agregar o remover administradores
+5. Click en "Administrar permisos"
+6. Click en el ícono "Invitar nuevos usuarios" (esquina superior derecha del recuadro)
+7. Seleccionar el rol "Dueño" de la lista
+8. Escribir el correo de la cuenta Google de la persona en cuestión.
+9. La persona invitada debe aceptar para completar el proceso.
 
-### Los contribuyentes del canal
+
+### Los administradores del canal
 #### Qué es?
 En caso de que el dueño del canal decida delegar la publicación de material u otras funciones a un tercero, se le debe hacer administrador a esta persona.
 
 #### Cómo se hace un nuevo administrador?
-El nuevo administrador debe tener una cuenta Google.
-El dueño del canal debe darle permisos de administrador utilizando su dirección de correo asociada.
+El proceso es idéntico al de transferir el dominio de un canal, pero seleccionando "Administrador" de la lista de roles cuando corresponda.
+
+### Subir un video
+1. Entrar en la [página de subida de videos](https://www.youtube.com/upload)
+2. Click en la flecha apuntando hacia arriba, luego seleccionar un archivo del disco.
+3. La pestaña debe mantenerse abierta mientras se sube el archivo.
+4. Mientras el archivo se sube, se pueden editar los campos relevantes (título, descripción y opciones de privacidad.)
+5. Asegurarse de que el video esté público.
 
 ### Organización de videos
 
